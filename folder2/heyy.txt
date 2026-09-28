@@ -1,5 +1,0 @@
-this is another text file to learn git 
-
-adding another text to heyy file 
-
-another one 
